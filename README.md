@@ -1,5 +1,20 @@
 ## LIVE CODE -> https://vibrant-edison-3356ea.netlify.com/
 
+## Random quote generator
+The quotation generator was created in react.js, its main function is to generate a random quote. It also has other functions such as tweeting the selected quote.
+
+## Motivation
+This project was created to understand how react works and to pass one of the projects needed to obtain a certificate.
+
+## Build status
+Currently, the application works fine. However, I am considering adding the possibility of generating a special table under the generator in which our favorite quotes would appear (the possibility of adding a random quote to the list of favorites).
+
+## Code style
+I didn't make a code review for this one, so there is a possibility for a little chaos in my code. //for now
+
+## Tech/framework used
+HTML, CSS, JS, React.js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
